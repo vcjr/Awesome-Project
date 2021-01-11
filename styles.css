@@ -1,0 +1,14 @@
+body {
+    background-color: darkblue;
+}
+
+.title {
+ 	color: white; 
+    text-align: center;
+}
+
+.awesomeness {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
